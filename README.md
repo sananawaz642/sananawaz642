@@ -9,7 +9,7 @@
 - 🌱 I’m currently Working on  Javascript and Flutter.
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play games and listen music.
 
 ### Connect with me:
